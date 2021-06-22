@@ -1,4 +1,4 @@
-// Author:
+// Author: Aaron Hobson
 
 // Global UI Variables
 //let canvasDiv;
